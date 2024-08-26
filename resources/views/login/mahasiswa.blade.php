@@ -11,9 +11,11 @@
 
   <ul>
     <li>Gilang Saputra : 434231116</li>
-    <li>George Misael : 434231115</li>
+    <li>George Misael Gantume : 434231115</li>
+    <li>Mikael Kristian : 434231117</li>
   </ul>
+  
+  <p>Selesai</p>
 
-  <p>Selesai anjir</p>
 </body>
 </html>
